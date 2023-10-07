@@ -5,3 +5,5 @@
 # Features
 
 __Auto Proxy Scraper__
+
+<img src="preview_capkey.png" />
